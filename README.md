@@ -10,4 +10,4 @@ This project was a React [scrimba](https://scrimba.com/) practice project that s
 
 ## Screenshots
 
-![pic-grid](Screenshot pics) ![cart](Screenshot cart)
+![pic-grid]("Screenshot pics.png") ![cart]("Screenshot cart.png")
