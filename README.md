@@ -7,3 +7,7 @@ This project was a React [scrimba](https://scrimba.com/) practice project that s
  - react-routes
  - useContext
  - custom hooks
+
+## Screenshots
+
+![pic-grid](Screenshot pics) ![cart](Screenshot cart)
